@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "description": "CL v23.040 (internal id 689d7ee0 @ 2023-01-17T06:08:02.188Z)",
+  "type": "module",
+  "main": "charting_library.cjs.js",
+  "module": "charting_library.esm.js",
+  "types": "charting_library.d.ts"
+}
